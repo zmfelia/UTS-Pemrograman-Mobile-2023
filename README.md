@@ -8,3 +8,4 @@ o Jika nama filmnya adalah The Super Mario Bros. Movie (2023), Nomor telepon ada
 o Jika nama filmnya adalah Guardians of the Galaxy Vol. 3 (2023), Nomor telepon adalah 087839997077
 o Jika nama filmnya adalah Ant-Man and the Wasp: Quantumania (2023), Nomor telepon adalah 087839997079
 - Jika pengguna mengklik tombol kirim sms, itu akan membuka pengirim sms dan menampilkan nama film sebagai badan pesan yang akan dikirim.
+
